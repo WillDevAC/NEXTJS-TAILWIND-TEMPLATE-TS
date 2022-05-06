@@ -13,6 +13,9 @@ node_modules
 /.next/
 /out/
 
+*.js
+!_*.js
+
 # production
 /build
 
